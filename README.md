@@ -4,4 +4,4 @@ This file was setup in order to experiment with "A Visual Git Reference" article
 
 May the previous link prove useful to whoever might read this.
 
-Also, this is my first public `commit` over at GitHub.com!
+Also, this is my first public `commit` ever, over at GitHub.com!
