@@ -1,1 +1,1 @@
-This a text file, created in a detached HEAD state, named 'd'.
+This a text file, created in a detached HEAD state, named 'd.txt'.

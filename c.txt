@@ -1,1 +1,1 @@
-A text file named 'c'.
+A text file named 'c.txt'.
