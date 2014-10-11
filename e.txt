@@ -1,0 +1,1 @@
+A text file named 'e.txt'. Added on a detached HEAD's newly created branch: detached-initial.
