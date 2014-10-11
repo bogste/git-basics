@@ -7,4 +7,4 @@ May the previous link prove useful to whoever might read this message over time.
 Also, this is my first public `commit` ever, over at GitHub.com!
 
 Cheers!
---Ian
+--Ian Bogste
